@@ -1,0 +1,90 @@
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+nav, footer {
+    background-color:#660066;
+}
+
+.hero-section {
+text-align: center;
+background-image: url("../img/bg_hero.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 600px ;
+width: 320px;
+}
+
+
+h1, h2, .textologo {
+    font-family: 'Oswald', sans-serif;
+
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+
+}
+
+
+.tituloexp, .textoexp, .textfooter {
+    font-weight: 700;
+}
+.textonombre {
+    font-weight: 700;
+}
+
+.contenedortexto {
+    padding-top: 400px;
+    padding-left:50px;
+    padding-right:50px ;
+}
+
+h4 {
+font-family: 'Oswald', sans-serif;
+font-weight: 600;
+}
+
+.containerbg {
+    background-color: #660066;
+}
+
+.blockex {
+    width: 100%;
+    }
+
+.descripcion h3{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 30px;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.descripcion1, .descripcion2 {
+    display: inline-block;
+
+}
+
+.descripcion1, .descripcion2 {
+    font-family: font-family: 'Open Sans', sans-serif;
+    font-weight:400;
+    font-size: 16px;
+height: 483px;
+    width: 483px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.yosoy {
+    text-decoration-line
+}
+
+.fechas {
+    font-size: 25px;
+}
+
+.fa-pen-nib,  .fa-cut{
+    color: #660066;
+}
